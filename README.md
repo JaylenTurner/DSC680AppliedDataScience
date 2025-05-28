@@ -1,3 +1,3 @@
 # DSC680AppliedDataScience
 
-Where I plan to upload my final class's projects!
+Repo hosting my final project portfolio. Find the website here: https://jaylenturner.github.io/DSC680AppliedDataScience/#
